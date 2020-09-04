@@ -17,6 +17,7 @@ While you _can_ make a bot with very little JS and programming knowledge, trying
 
 If you don't know JS but would like to learn about it, here are a few links to help get you started:
 
+
 * [CodeCademy's interactive JavaScript course](https://www.codecademy.com/learn/learn-javascript)
 * [Eloquent JavaScript, a free online book](http://eloquentjavascript.net/)
 * [Nodeschool, for both JavaScript and Node.js lessons](https://nodeschool.io/)
